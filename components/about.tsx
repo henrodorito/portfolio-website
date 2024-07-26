@@ -19,29 +19,30 @@ export default function About() {
     >
       <SectionHeading>About Me</SectionHeading>
       <p className="mb-3">
-        After graduating with a degree in{" "}
-        <span className="font-medium">CS and Stats</span>, I decided to pursue
-        my passion for programming. I enrolled in a coding bootcamp and learned{" "}
-        <span className="font-medium">full-stack web development</span>.{" "}
-        <span className="italic">My favorite part of programming</span> is the
-        problem-solving aspect. I <span className="underline">love</span> the
-        feeling of finally figuring out a solution to a problem. My core stack
-        is{" "}
+        I am currently pursuing a joint degree in{" "}
+        <span className="font-medium">CS and Statistics</span> and a candidate
+        for a <span className="font-medium">Masters in Comptuer Science</span>{" "}
+        at Harvard University, where I have developed a strong foundation in
+        machine learning, data analysis, and software engineering. As a{" "}
         <span className="font-medium">
-          React, Next.js, Node.js, and MongoDB
+          two-time Software Engineer Intern at Amazon
         </span>
-        . I am also familiar with TypeScript and Prisma. I am always looking to
-        learn new technologies. I am currently looking for a{" "}
-        <span className="font-medium">full-time position</span> as a software
-        developer.
+        , I worked on deploying machine learning models and optimizing data
+        pipelines to support large-scale projects. My research experience at{" "}
+        <span className="font-medium">Harvard VisionLabs</span> and{" "}
+        <span className="font-medium">Stony Brook HCI Lab</span> has a focus on
+        computer vision, where I have investigated{" "}
+        <span className="italic">texture-bias</span> in CNNs and created an{" "}
+        <span className="italic">eye-gaze and voice based text correction</span>{" "}
+        application for mobile devices. I am a quick learner with a genuine
+        curiosity for exploring diverse perspectives, and I am passionate about
+        leveraging technology to solve complex problems.
       </p>
       <p>
         <span className="italic">When I&apos;m not coding</span>, I enjoy
-        playing video games, watching movies, and playing with my dog. I also
-        enjoy <span className="font-medium">learning new things</span>. I am
-        currently learning about{" "}
-        <span className="font-medium">history and philosophy</span>. I&apos;m
-        also learning how to play the guitar.
+        singing in the Harvard Glee Club (aye!) with its acapella subset,
+        Harvard Glee Club Lite, playing Ultimate Frisbee on the Harvard Bred
+        Team, learning about religion and philosophy, and playing poker.
       </p>
     </motion.section>
   );
